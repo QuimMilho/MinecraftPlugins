@@ -1,0 +1,8 @@
+name: LimitedLife
+version: '${version}'
+main: net.quimmilho.limitedlife.Core
+api-version: '1.20'
+load: STARTUP
+authors: [QuimMilho]
+description: A game Plugin
+website: quimmilho.net

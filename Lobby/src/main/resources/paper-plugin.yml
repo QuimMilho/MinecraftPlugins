@@ -1,0 +1,8 @@
+name: Lobby
+version: '${version}'
+main: net.quimmilho.lobby.Core
+api-version: '1.20'
+load: STARTUP
+authors: [QuimMilho]
+description: A lobby plugin
+website: quimmilho.net
