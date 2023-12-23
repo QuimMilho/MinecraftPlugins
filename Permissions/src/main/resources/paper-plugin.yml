@@ -1,0 +1,8 @@
+name: Permissions
+version: '${version}'
+main: net.quimmilho.permissions.Permissions
+api-version: '1.20'
+load: STARTUP
+authors: [QuimMilho]
+description: A Permissions Plugin
+website: quimmilho.net
