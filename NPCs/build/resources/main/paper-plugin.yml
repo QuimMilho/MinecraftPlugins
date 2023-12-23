@@ -1,0 +1,7 @@
+name: NPCs
+version: '1.0'
+main: net.quimmilho.npcs.NPCs
+api-version: '1.20'
+authors: [QuimMilho]
+description: A NPC Plugin
+website: quimmilho.net
