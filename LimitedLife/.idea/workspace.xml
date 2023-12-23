@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785c6928-dc79-44e7-bfd1-e14e7f7b92b0" name="Changes" comment="" />
+    <list default="true" id="785c6928-dc79-44e7-bfd1-e14e7f7b92b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MineServer/src/main/java/net/quimmilho/mineserver/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MineServer/src/main/java/net/quimmilho/mineserver/MineSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MineServer/src/main/java/net/quimmilho/mineserver/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/src/main/java/net/quimmilho/utils/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTCPClient/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaTCPClient/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTCPClient/src/main/java/net/quimmilho/mineclient/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaTCPClient/src/main/java/net/quimmilho/mineclient/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MineServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MineServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MineServer/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../MineServer/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MineServer/src/main/java/net/quimmilho/mineserver/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MineServer/src/main/java/net/quimmilho/mineserver/Core.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,23 +47,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2YpRqrr025ovLIk6byfYnXCRrKx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/dev/Java/MinecraftPlugins/MineServer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="LimitedLife build" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
@@ -83,6 +102,9 @@
       <option name="presentableId" value="Default" />
       <updated>1701220728515</updated>
       <workItem from="1701220729610" duration="38000" />
+      <workItem from="1701274582635" duration="1449000" />
+      <workItem from="1701289247071" duration="102000" />
+      <workItem from="1701298194544" duration="619000" />
     </task>
     <servers />
   </component>
