@@ -1,0 +1,7 @@
+name: LobbyProtection
+version: '1.0'
+main: net.quimmilho.lobbyprotection.LobbyProtection
+api-version: '1.20'
+authors: [QuimMilho]
+description: A Protection Plugin
+website: quimmilho.net
